@@ -18,6 +18,8 @@ h1{
     border-style: solid;
     border-width: 3px;
     border-radius: 15px;
+    text-shadow: 3px 3px;
+    
 }
 #p3{
     border: 5px solid hsl(2, 90%, 40%)
