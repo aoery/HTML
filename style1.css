@@ -27,16 +27,19 @@ h1{
     border-radius:3px;
 }
 #p8{
-    font-size: 20px;
+    font-size: 32px;
     color: rgb(177, 130, 220);
     
-    border-bottom: 4px solid rgb(101, 222, 255);
-    border-top: 4px solid rgb(255, 255, 255);
-    border-left: 4px double rgb(255, 0, 238);
-    border-right: 4px double rgb(255, 0, 238);
+    border-bottom: 3px solid rgb(101, 222, 255);
+    border-top: 3px solid rgb(255, 255, 255);
+    border-left: 3px double rgb(255, 0, 238);
+    border-right: 3px double rgb(255, 0, 238);
 
     border-radius: 10px;
 }
 #box1{
-    box-shadow:3px 3px 5px;
+    width: 1905px;
+    height: 100px;
+    background-color: rgb(110, 110, 110);
+    box-shadow:4px 4px 5px black;  
 }
