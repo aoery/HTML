@@ -18,20 +18,25 @@ h1{
     border-style: solid;
     border-width: 3px;
     border-radius: 15px;
-    text-shadow: 3px 3px;
+    text-shadow: 3px 3.25px black, 3.75px 4px rgb(163, 54, 54);
+    
     
 }
 #p3{
-    border: 5px solid hsl(2, 90%, 40%)
+    border: 5px solid hsl(2, 90%, 40%);
+    border-radius:3px;
 }
 #p8{
     font-size: 20px;
     color: rgb(177, 130, 220);
     
-    border-bottom: 8px solid rgb(101, 222, 255);
-    border-top: 8px solid rgb(255, 255, 255);
-    border-left: 8px double rgb(255, 0, 238);
-    border-right: 8px double rgb(255, 0, 238);
+    border-bottom: 4px solid rgb(101, 222, 255);
+    border-top: 4px solid rgb(255, 255, 255);
+    border-left: 4px double rgb(255, 0, 238);
+    border-right: 4px double rgb(255, 0, 238);
 
     border-radius: 10px;
+}
+#box1{
+    box-shadow:3px 3px 5px;
 }
