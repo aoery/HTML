@@ -2,15 +2,6 @@
     font-family: BriemHand;
     src: url(fonts/BriemHand-VariableFont_wght.ttf);
 }
-body{
-    background-color: black;
-}
-h1{
-    color:white;
-}
-p{
-    color:white;
-}
 #p1{
     color: red;
     font-family: "lucida console", ;
