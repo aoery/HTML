@@ -9,9 +9,18 @@ p{
 }
 #p1{
     color: red;
+    font-family: "lucida console", ;
+    font-size: 22px;
+    font-weight: bold;
+    font-style: italic;
 }
 #p2{
     color:blue;
+    font-family: "Briem Hand", cursive;
+    font-optical-sizing: auto;
+    font-weight:normal;
+    font-style: normal;
+    font-size: 28px;
 }
 .bottom{
     color:orange;

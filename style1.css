@@ -1,3 +1,15 @@
 body{
     background-color: purple;
 }
+#p5{
+    color:rgb(101, 222, 255);
+}
+#p6{
+    color:#59ff5f;
+}
+#p7{
+    color:hsl(2, 90%, 40%)
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
