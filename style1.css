@@ -19,7 +19,10 @@ h1{
     border-width: 3px;
     border-radius: 15px;
     text-shadow: 3px 3.25px black, 3.75px 4px rgb(163, 54, 54);
-    font-size: 30px;
+    font-size: 27.25px;
+    max-height: max-content;
+    max-width: max-content;
+    padding: 3px;
     
     
 }
@@ -35,12 +38,14 @@ h1{
     border-top: 3px solid rgb(255, 255, 255);
     border-left: 3px double rgb(255, 0, 238);
     border-right: 3px double rgb(255, 0, 238);
-
+    padding: 5px;
     border-radius: 10px;
 }
 #box1{
-    width: 1835px;
-    height: 100px;
+    width: auto;
     background-color: rgb(110, 110, 110);
-    box-shadow:4px 4px 5px black;  
+    box-shadow:4px 4px 6px black;  
+    border-radius: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
 }

@@ -20,4 +20,6 @@
 }
 .bottom{
     color:orange;
+    text-align: center;
+    max-width: fit-content;
 }
