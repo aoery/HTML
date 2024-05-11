@@ -6,16 +6,21 @@ body{
 }
 .box{
     border: 5px solid;
-    border-color: black;
+    border-radius: 4px;
+    border-color: rgb(0, 0, 0);
     font-size: 30px;
-    width: 1835px;
-    height: 100px;
-    margin: auto;
+    width: auto;
+    
+    margin-left: 10px;
+    margin-right: 10px;
     color:white;
+    display:inline-block;
+
    
 }
 #box1{
     background-color: rgb(153, 43, 43);
+    margin-bottom: 4px;
    
 }
 #box2{
@@ -26,14 +31,21 @@ body{
 #img1{
     float: left;
     margin: 10px;
+    border: 5px solid;
+    border-radius: 4px;
+    border-color: rgb(0, 0, 0);
 }
 #img2{
     float: right;
-   margin: 10px;
+    margin: 10px;
+    border: 5px solid;
+    border-radius: 4px;
+    border-color: rgb(0, 0, 0);
     
 }
 .margin{
-    margin: 10px;   
+    margin: 10px; 
+    text-decoration: none;  
 }
 .boxtext{
     margin: 10px;
