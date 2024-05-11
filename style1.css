@@ -19,6 +19,7 @@ h1{
     border-width: 3px;
     border-radius: 15px;
     text-shadow: 3px 3.25px black, 3.75px 4px rgb(163, 54, 54);
+    font-size: 30px;
     
     
 }
@@ -38,7 +39,7 @@ h1{
     border-radius: 10px;
 }
 #box1{
-    width: 1905px;
+    width: 1835px;
     height: 100px;
     background-color: rgb(110, 110, 110);
     box-shadow:4px 4px 5px black;  
